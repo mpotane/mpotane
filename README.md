@@ -1,16 +1,14 @@
-### Github Profile 👾
-
-<!--
-**p0txky/p0txky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### yo, I am p0txky 👾
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying at a university.
+- 🌱 I’m currently learning from home.
+- 👯 I’m looking to collaborate on github.
+- 🤔 I’m looking for help with no one at the moment.
+- 💬 Ask me about cool things.
+- 📫 How to reach me: [@yanexrequilme](https://twitter.com/yanexrequilme)
+- 😄 Pronouns: Their
+- ⚡ Fun fact: I don't drink coffee!
+
+<img src="https://github-readme-stats.vercel.app/api?username=p0txky&&show_icons=true&title_color=3ab800&icon_color=06dcf9&text_color=daf7dc&bg_color=496079">
