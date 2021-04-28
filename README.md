@@ -1,4 +1,4 @@
-### yo, I am p0txky 👾
+## yo, I am p0txky 👾
 
 Here are some ideas to get you started:
 
@@ -11,4 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Their
 - ⚡ Fun fact: I don't drink coffee!
 
-<img src="https://github-readme-stats.vercel.app/api?username=p0txky&&show_icons=true&title_color=08e600&icon_color=06dcf9&text_color=daf7dc&bg_color=DEG,173859,e60032&border_radius=25px">
+<details>
+  <summary> 📊 Github stats!</summary>
+   <img src="https://github-readme-stats.vercel.app/api?username=p0txky&&show_icons=true&title_color=08e600&icon_color=06dcf9&text_color=daf7dc&bg_color=DEG,173859,e60032&border_radius=25px">
+</details
