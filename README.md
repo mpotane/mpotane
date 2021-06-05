@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 <details>
   <summary> 📊 Github stats!</summary>
    <img src="https://github-readme-stats.vercel.app/api?username=p0txky&&show_icons=true&theme=onedark&border_radius=25px&include_all_commits=1">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0txky&layout=compact&theme=onedark>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0txky&layout=compact&theme=onedark">
 </details
