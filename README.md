@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 <hr>
 <details open>
   <summary> 📊 Click to Hide Github stats!</summary>
-   <img src="https://github-readme-stats.vercel.app/api?username=p0txky&&show_icons=true&theme=onedark&border_radius=10px&include_all_commits=1">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0txky&layout=compact&border_radius=10px&theme=onedark">
+   <img src="https://github-readme-stats.vercel.app/api?username=p0txky&&show_icons=true&theme=onedark&border_radius=25px&include_all_commits=1">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0txky&layout=compact&border_radius=25px&theme=onedark">
 </details
