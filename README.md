@@ -35,3 +35,6 @@ Here are some ideas to get you started:
    <img src="https://github-readme-stats.vercel.app/api?username=p0txky&&show_icons=true&theme=onedark&border_radius=25px&include_all_commits=1">
    <img style="float:left;padding-right:20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0txky&layout=compact&border_radius=25px&theme=onedark">
 </details
+  
+![Metrics](https://metrics.lecoq.io/p0txky?template=classic&languages=1&introduction=1&people=1&stars=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FManila)
+  
