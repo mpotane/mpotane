@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 
 <details open>
   <summary> 📊 Click to Hide/Unhide Github stats!</summary>
-   <img style="float:left;padding-right:20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0txky&layout=compact&border_radius=25px&theme=onedark">
-</details
-
-![Metrics](https://metrics.lecoq.io/p0txky?template=classic&introduction=1&stars=1&people=1&gists=1&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FManila)
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0txky&layout=compact&border_radius=25px&theme=onedark" />
+</details>
