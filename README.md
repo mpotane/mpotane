@@ -1,4 +1,4 @@
-## yo, I am p0txky 👾
+## yo, I am Mark Edzel Potane 👾
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Pacifico&&size=28&width=500&color=09812d&lines=I'm+a+beginner...;I+💜+Open+Source)](https://git.io/typing-svg)
 
