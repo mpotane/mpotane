@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Their
 - ⚡ Fun fact: I don't drink coffee!
 
+## 🔧 Technologies
+
+![skills](https://skillicons.dev/icons?i=bash,bootstrap,codepen,discord,django,html,css,sass,js,fastapi,flask,git,heroku,linkedin,md,neovim,nodejs,postgresql,powershell,py,pytorch,regex,selenium,stackoverflow,svg,tailwind,tensorflow,twitter,vercel,vim,vscode&theme=light)
+
 <details open>
   <summary> 📊 Click to Hide/Unhide Github stats!</summary>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpotane&layout=compact&border_radius=25px&theme=onedark" />
