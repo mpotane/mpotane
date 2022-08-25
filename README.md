@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on github.
 - 🤔 I’m looking for help with no one at the moment.
 - 💬 Ask me about cool things.
-- 📫 How to reach me: [@yanexrequilme](https://twitter.com/yanexrequilme)
+- 📫 How to reach me: [@mpotanedev](https://twitter.com/mpotanedev)
 - 😄 Pronouns: Their
 - ⚡ Fun fact: I don't drink coffee!
 
