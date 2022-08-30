@@ -6,13 +6,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying at a university.
+- 🔭 I’m currently studying.
 - 🔎 I’m currently learning from home.
 - 👯 I’m looking to collaborate on github.
 - 🤔 I’m looking for help with no one at the moment.
 - 💬 Ask me about cool things.
 - 📫 How to reach me: [@mpotanedev](https://twitter.com/mpotanedev)
-- 😄 Pronouns: Their
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't drink coffee!
 
 ---
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ---
 
-💻🌠 by [Mark Edzel Potane](https://warengonzaga.com) | [My Linkedin profile](https://www.linkedin.com/in/mpotane/)) 🕹
+💻🌠 by [Mark Edzel Potane](https://mpotane.github.io) | [My Linkedin profile](https://www.linkedin.com/in/mpotane/)) 🕹
