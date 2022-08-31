@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <details open>
   <summary> 📊 Click to Hide/Unhide Github stats!</summary>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpotane&layout=compact&border_radius=25px&theme=onedark" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpotane&hide=html&langs_count=10&layout=compact&border_radius=25px&theme=onedark" />
 </details>
 
 ---
