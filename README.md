@@ -2,7 +2,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Pacifico&&size=28&width=500&color=09812d&lines=I'm+interested+in+Data+Science+⚗️;I+💜+Open+Source;Nice+to+meet+you...+🙋🏻‍♂️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Pacifico&&size=28&width=500&color=09812d&lines=I+code+in+JavaScript+and+Python+⚗️;I+💜+Open+Source;Nice+to+meet+you...+🙋🏻‍♂️)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
