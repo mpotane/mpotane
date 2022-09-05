@@ -25,6 +25,11 @@ Here are some ideas to get you started:
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpotane&hide=html&langs_count=10&layout=compact&border_radius=25px&theme=onedark" />
 </details>
 
+<!--- details open>
+  <summary> 🔥 Click to Hide/Unhide Github streak stats!</summary>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mpotane&theme=onedark" />
+</details --->
+
 ---
 
 💻🌠 by [Mark Edzel Potane](https://mpotane.github.io) | [My Linkedin profile](https://www.linkedin.com/in/mpotane/)) 🕹
