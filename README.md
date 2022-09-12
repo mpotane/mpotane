@@ -7,14 +7,14 @@
 ---
 
 ### ⚡ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mpotane&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mpotane&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpotane&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mpotane&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&border_radius=10)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mpotane&theme=onedark&hide_border=false&border_radius=10)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpotane&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10&border_radius=10)<br/>
 ![](https://activity-graph.herokuapp.com/graph?username=mpotane&radius=10&theme=one-dark)
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mpotane&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✒️ Random Dev Quote
@@ -22,6 +22,7 @@
 
 ---
 
+### 🔢 Number of visitors
 [![](https://visitcount.itsvg.in/api?id=mpotane&icon=5&color=4)](https://visitcount.itsvg.in)
 
 ### 🎁 You can help me by Donating
