@@ -9,8 +9,8 @@
 ### ⚡ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mpotane&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&border_radius=10)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mpotane&theme=onedark&hide_border=true&border_radius=10)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpotane&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10&border_radius=10&hide=html,css&hide_border=true)<br/>
-![](https://activity-graph.herokuapp.com/graph?username=mpotane&radius=10&theme=one-dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpotane&theme=onedark&include_all_commits=false&count_private=false&layout=compact&langs_count=10&border_radius=10&hide_border=true&hide=html,css)<br/>
+![](https://github-readme-activity-graph.cyclic.app/graph?username=mpotane&theme=one-dark&area=true&hide_border=true&radius=10)
 
 ---
 
