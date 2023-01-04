@@ -1,4 +1,7 @@
 ## ✌️ Yo, what's 🆙 🤖
+
+[![An image of @mpotane's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mpotane)](https://holopin.io/@mpotane)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&height=45&size=22&width=500&color=09812d&pause=1000&lines=I+code+in+JavaScript+and+Python+⚗️;I+💜+Open+Source;Nice+to+meet+you...+🙋🏻‍♂️)](https://git.io/typing-svg)
 
 ### ⚙️ Tech Stack:
