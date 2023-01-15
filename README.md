@@ -10,18 +10,18 @@
 ---
 
 ### ⚡ GitHub Stats:
-![](https://readme-stats.warengonzaga.com/api?username=mpotane&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&border_radius=10)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mpotane&theme=onedark&hide_border=true&border_radius=10)<br/>
-![](https://readme-stats.warengonzaga.com/api/top-langs/?username=mpotane&theme=onedark&include_all_commits=false&count_private=false&layout=compact&langs_count=10&border_radius=10&hide_border=true&hide=html,css)<br/>
-![](https://github-readme-activity-graph.cyclic.app/graph?username=mpotane&theme=one-dark&area=true&hide_border=true&radius=10)
+![Github stats](https://readme-stats.warengonzaga.com/api?username=mpotane&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&border_radius=10)<br/>
+![Github readme streaks](https://github-readme-streak-stats.herokuapp.com/?user=mpotane&theme=onedark&hide_border=true&border_radius=10)<br/>
+![Github top langs](https://readme-stats.warengonzaga.com/api/top-langs/?username=mpotane&theme=onedark&include_all_commits=false&count_private=false&layout=compact&langs_count=10&border_radius=10&hide_border=true&hide=html,css)<br/>
+![Readme activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mpotane&theme=one-dark&area=true&hide_border=true&radius=10)
 
 ---
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mpotane&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+![Github trophy](https://github-profile-trophy.vercel.app/?username=mpotane&theme=onedark&no-frame=true&no-bg=false)
 
 ### ✒️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+![Random dev quotes](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ---
 
