@@ -24,7 +24,7 @@
 
 ### 🏆 GitHub Trophies
 
-![Github trophy](https://github-profile-trophy.vercel.app/?username=mpotane&theme=onedark&no-frame=true&no-bg=false)
+![Github trophy](https://github-profile-trophy.vercel.app/?username=mpotane&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✒️ Random Dev Quote
 
