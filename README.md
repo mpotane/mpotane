@@ -29,7 +29,7 @@
 
 ![Github top langs](https://readme-stats.warengonzaga.com/api/top-langs/?username=mpotane&theme=onedark&include_all_commits=false&count_private=false&layout=compact&langs_count=10&border_radius=10&hide_border=true&hide=html,css)
 
-![Readme activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mpotane&theme=one-dark&area=true&hide_border=true&radius=10)
+![Readme activity graph](https://github-readme-activity-graph-mpotane.vercel.app/graph?username=mpotane&theme=one-dark&area=true&hide_border=true&radius=10)
 
 ---
 
