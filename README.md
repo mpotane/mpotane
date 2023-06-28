@@ -12,8 +12,9 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [How to set up fish-shell in WSL 2](https://blog.mpotane.com/how-to-set-up-fish-shell-in-wsl-2)
- - 💯 [How I set up my dev environment.](https://blog.mpotane.com/how-i-set-up-my-dev-environment)<!-- BLOGPOSTS:END -->
+ - 💫 [Client-side data fetching in Nextjs](https://blog.mpotane.com/client-side-data-fetching-in-nextjs)
+ - 💯 [How to set up fish-shell in WSL 2](https://blog.mpotane.com/how-to-set-up-fish-shell-in-wsl-2)
+ - 🚀 [How I set up my dev environment.](https://blog.mpotane.com/how-i-set-up-my-dev-environment)<!-- BLOGPOSTS:END -->
 
 ## ⚙️ Tech Stack
 
