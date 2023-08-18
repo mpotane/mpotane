@@ -12,9 +12,10 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Client-side data fetching in Nextjs](https://blog.mpotane.com/client-side-data-fetching-in-nextjs)
- - 💯 [How to set up fish-shell in WSL 2](https://blog.mpotane.com/how-to-set-up-fish-shell-in-wsl-2)
- - 🚀 [How I set up my dev environment.](https://blog.mpotane.com/how-i-set-up-my-dev-environment)<!-- BLOGPOSTS:END -->
+ - 💫 [Learn How to Install and Configure Copilot in Neovim using Lazynvim](https://blog.mpotane.com/learn-how-to-install-and-configure-copilot-in-neovim-using-lazynvim)
+ - 💯 [How to Fetch Data on the Client Side with Next.js: A Comparison of SWR, React Query, and Apollo Client](https://blog.mpotane.com/how-to-fetch-data-on-the-client-side-with-nextjs-a-comparison-of-swr-react-query-and-apollo-client)
+ - 🚀 [How to set up fish-shell in WSL 2](https://blog.mpotane.com/how-to-set-up-fish-shell-in-wsl-2)
+ - 🚀 [My Development Environment Setup: Tips and Tricks](https://blog.mpotane.com/my-development-environment-setup-tips-and-tricks)<!-- BLOGPOSTS:END -->
 
 ## ⚙️ Tech Stack
 
