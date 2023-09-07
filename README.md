@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&height=45&size=22&width=500&color=09812d&pause=1000&vCenter=true&lines=I+code+in+JavaScript+and+Python+⚗️;I+💜+Open+Source;Nice+to+meet+you...+🙋🏻‍♂️" /></a>
+  <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&height=45&size=22&width=500&color=09812d&pause=1000&vCenter=true&lines=I+code+in+TypeScript+and+Python+⚗️;I+💜+Open+Source;Nice+to+meet+you...+🙋🏻‍♂️" /></a>
 </p>
 
 #### :books: Recent Blog Posts
