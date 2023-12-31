@@ -15,7 +15,7 @@
  - 💫 [From Miles to Kilometers: Exploring Google&#39;s Android Earthquake Alert System.](https://blog.mpotane.com/2023/12/from-miles-to-kilometers-exploring.html)
  - 💯 [Tips: How to Fetch Data on the Client Side with Next.js](https://blog.mpotane.com/2023/12/tips-how-to-fetch-data-on-client-side.html)
  - 🚀 [Neovim: Learn How to Install and Configure Copilot](https://blog.mpotane.com/2023/12/neovim-learn-how-to-install-and.html)
- - 🚀 [How to set up fish-shell in WSL 2](https://blog.mpotane.com/2023/12/how-to-set-up-fish-shell-in-wsl-2.html)<!-- BLOGPOSTS:END -->
+ - 🚀 [How to set up fish shell in WSL 2](https://blog.mpotane.com/2023/12/how-to-set-up-fish-shell-in-wsl-2.html)<!-- BLOGPOSTS:END -->
 
 ## ⚙️ Tech Stack
 
