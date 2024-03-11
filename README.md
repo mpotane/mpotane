@@ -12,11 +12,9 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Cafe Drinks: A Comprehensive Guide](https://blog.mpotane.com/2024/01/cafe-drinks-comprehensive-guide.html)
- - 💯 [Customizing Distance Units in Android Earthquake Alerts](https://blog.mpotane.com/2023/12/from-miles-to-kilometers-exploring.html)
- - 🚀 [Tips: How to Fetch Data on the Client Side with Next.js](https://blog.mpotane.com/2023/12/tips-how-to-fetch-data-on-client-side.html)
- - 🚀 [Neovim: Learn How to Install and Configure Copilot](https://blog.mpotane.com/2023/12/neovim-learn-how-to-install-and.html)
- - 💯 [How to set up fish shell in WSL 2](https://blog.mpotane.com/2023/12/how-to-set-up-fish-shell-in-wsl-2.html)<!-- BLOGPOSTS:END -->
+ - 💫 [How to Fetch Data in Next.js &lpar;Client-Side&rpar;](https://blog.mpotane.com/2023/12/tips-how-to-fetch-data-on-client-side.html)
+ - 💯 [How to Install and Configure Copilot in Neovim](https://blog.mpotane.com/2023/12/neovim-learn-how-to-install-and.html)
+ - 🚀 [How to set up fish shell in WSL 2](https://blog.mpotane.com/2023/12/how-to-set-up-fish-shell-in-wsl-2.html)<!-- BLOGPOSTS:END -->
 
 ## ⚙️ Tech Stack
 
