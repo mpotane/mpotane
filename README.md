@@ -12,9 +12,8 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [How to Fetch Data in Next.js &lpar;Client-Side&rpar;](https://blog.mpotane.com/2023/12/tips-how-to-fetch-data-on-client-side.html)
- - 💯 [How to Install and Configure Copilot in Neovim](https://blog.mpotane.com/2023/12/neovim-learn-how-to-install-and.html)
- - 🚀 [How to set up fish shell in WSL 2](https://blog.mpotane.com/2023/12/how-to-set-up-fish-shell-in-wsl-2.html)<!-- BLOGPOSTS:END -->
+ - 💫 [Why Hire an SEO Specialist in the Philippines &lpar;And What to Look For&rpar;](https://www.mpotane.com/blog/post/why-hire-seo-specialist-in-the-philippines/)
+ - 💯 [How to set up fish-shell in WSL 2](https://www.mpotane.com/blog/post/how-to-set-up-fish-shell-in-wsl-2/)<!-- BLOGPOSTS:END -->
 
 ## ⚙️ Tech Stack
 
