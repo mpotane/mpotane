@@ -12,8 +12,9 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Why Hire an SEO Specialist in the Philippines &lpar;And What to Look For&rpar;](https://www.mpotane.com/blog/post/why-hire-seo-specialist-in-the-philippines/)
- - 💯 [How to set up fish-shell in WSL 2](https://www.mpotane.com/blog/post/how-to-set-up-fish-shell-in-wsl-2/)<!-- BLOGPOSTS:END -->
+ - 💫 [How to add a screen text capture &lpar;OCR&rpar; shortcut on Linux &lpar;Wayland&rpar;](https://www.mpotane.com/blog/post/how-to-add-screen-text-capture-ocr-shortcut-linux-wayland/)
+ - 💯 [Why Hire an SEO Specialist in the Philippines &lpar;And What to Look For&rpar;](https://www.mpotane.com/blog/post/why-hire-seo-specialist-in-the-philippines/)
+ - 🚀 [How to set up fish-shell in WSL 2](https://www.mpotane.com/blog/post/how-to-set-up-fish-shell-in-wsl-2/)<!-- BLOGPOSTS:END -->
 
 ## ⚙️ Tech Stack
 
