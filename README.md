@@ -3,7 +3,7 @@
 [![An image of @mpotane's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mpotane)](https://holopin.io/@mpotane)
 
 <p align="center">
-  <a href="https://daily.dev/mpotane"><img src="https://api.daily.dev/devcards/v2/EIQnSKQAea8D0OKUw0oCW.png?type=default&r=fji" width="356" alt="Mark Edzel Potane's Dev Card"/></a>
+  <a href="https://daily.dev/mpotane"><img src="https://api.daily.dev/devcards/v2/EIQnSKQAea8D0OKUw0oCW.png?type=default&r=c8g" width="356" alt="Mark Edzel Potane's Dev Card"/></a>
 </p>
 
 <p align="center">
