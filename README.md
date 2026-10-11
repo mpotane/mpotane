@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&height=45&size=22&width=500&color=09812d&pause=1000&vCenter=true&lines=I+code+in+TypeScript+and+Python+⚗️;I+💜+Open+Source;Nice+to+meet+you...+🙋🏻‍♂️" /></a>
+  <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&height=45&size=22&width=500&color=09812d&pause=1000&vCenter=true&lines=I+code+in+TypeScript+and+Python+%E2%9A%97%EF%B8%8F;I+%F0%9F%92%9C+Open+Source;Nice+to+meet+you...+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing intro" /></a>
 </p>
 
 #### :books: Recent Blog Posts
